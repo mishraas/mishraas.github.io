@@ -1210,6 +1210,7 @@ header.jumbotron{
     font-weight:300;
 }
 
+a.customLink{color:#fff;font-style:italic;}
 
 /*------------------------
 ---Scrolling animations---
